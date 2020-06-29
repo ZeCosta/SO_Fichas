@@ -1,0 +1,9 @@
+//no ficheiro funcs.h colocar:
+#ifndef FUNCS_H
+#define FUNCS_H
+
+
+//corpo do .h
+
+
+#endif

@@ -1,0 +1,4 @@
+gcc -c hello.c -> hello.o
+gcc -c funcs.c -> funcs.o
+
+gcc -Wall -o hello hello.o funcs.o ->hello.out (flag -o hello) e com flags para erros(-Wall) 
